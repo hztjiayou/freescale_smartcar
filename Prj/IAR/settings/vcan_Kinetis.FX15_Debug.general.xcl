@@ -1,0 +1,17 @@
+"E:\IAR\Ruanjian\IAR\arm\bin\armproc.dll" 
+
+"E:\IAR\Ruanjian\IAR\arm\bin\armjlink2.dll" 
+
+"E:\IAR\IAR-Data\Person\组内\DMA_鹰眼摄像头OV7725串口显示\Prj\IAR\FX15_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "E:\IAR\Ruanjian\IAR\arm\bin\armbat.dll" 
+
+--device_macro "E:\IAR\Ruanjian\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "E:\IAR\Ruanjian\IAR\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "E:\IAR\Ruanjian\IAR\arm\config\flashloader\Freescale\FlashK60Fxxx128K.board" 
+
+
+
+
